@@ -1,4 +1,4 @@
-# Music AI Startup
+# Music Feature Transformer
 
 tools predicted to need: Python, Librosa, OpenAI API, RNNs, LSTMs.
 
